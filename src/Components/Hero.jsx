@@ -35,13 +35,13 @@ function Hero() {
           <h1>Joel <br />Chondo</h1>
           <h2>Web Developer</h2>
           <span>
-          <a href="https://twitter.com/" target="_blank">
+          <a href="https://x.com/Chondojoel?s=09" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/J-Chondo" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a href="https://linkedin.com/in/dio-chondo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
@@ -49,7 +49,7 @@ function Hero() {
           With a passion for developing modern React web apps for commercial
           businesses.
           </p>
-          <a href>
+          <a href="https://github.com/J-Chondo">
           <button className="hover">Resume</button>
         </a>
         </div>
