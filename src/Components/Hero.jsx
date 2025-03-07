@@ -1,5 +1,5 @@
 import React from 'react';
-import heroImg from  '../assets/Hero-img.jpg';
+import heroImg from  '../assets/joel-img.jpg';
 import sun from '../assets/sun.svg';
 import moon from '../assets/moon.svg'
 import twitterLight from '../assets/twitter-light.svg';
